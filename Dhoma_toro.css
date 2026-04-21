@@ -100,8 +100,8 @@ textarea {
     color: #0f172a;
 }
 .hero-subtitle-1{
-    font-size: clamp(1rem, 3vw, 3rem);
-    line-height: 2.04;
+    font-size: clamp(3rem, 5vw, 5rem);
+    line-height: 1.52;
     letter-spacing: -0.04em;
     margin: 20px 0 18px;
     color: #0f172a;
