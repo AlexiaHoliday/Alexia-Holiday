@@ -99,7 +99,9 @@ textarea {
     margin: 20px 0 18px;
     color: #0f172a;
 }
-
+.hero-subtitle-2{
+    
+}
 .hero-subtitle {
     color: var(--text-secondary);
     font-size: clamp(1.05rem, 1.8vw, 1.45rem);
